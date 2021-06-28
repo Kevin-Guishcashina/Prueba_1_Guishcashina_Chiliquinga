@@ -6,7 +6,7 @@
 
 ## Para instalar las dependencias ejecute
 
--   `npm i`
+-   `npm  i`
 
 ## Modificar el package.json con sus datos en la clave author
 

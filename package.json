@@ -10,7 +10,7 @@
         "prueba",
         "npm"
     ],
-    "author": "Kevin G. Omar C.",
+    "author": "Kevin G. Omar C",
     "license": "ISC",
     "dependencies": {
         "axios": "0.21.1",
